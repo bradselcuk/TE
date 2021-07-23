@@ -1,4 +1,11 @@
 package com.weborders.tests;
 
-public class LoginTest {
+import org.testng.annotations.Test;
+
+public class LoginTest extends BaseTest{
+
+    @Test
+    public void login(){
+
+    }
 }
